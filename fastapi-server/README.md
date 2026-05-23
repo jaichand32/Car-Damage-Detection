@@ -95,7 +95,7 @@ print(response.json())
   "error": "Detailed error message explanation here"
 }
 ```
-
+![app](test_screenshot.png)
 ---
 
 ## Supported Classes
